@@ -1,4 +1,6 @@
-# Első ZH
+# Numerikus módszeret II - 2020/2021/1 - elméleti kérdések
+
+## Első ZH
 1.	Definiálja az interpoláció feladatát! 2p.
 1.	Definiálja a Lagrange-alappolinomokat! 2p.
 1.	Írja le a Lagrange-alappolinomok tulajdonságait! 2p.
